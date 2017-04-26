@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F64193DB-DA5F-150A-9568-26F048DDAB0C}") = "SceneFader", "Assembly-CSharp.csproj", "{97BC836D-CE82-F7D4-3BEC-3E803D85DF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97BC836D-CE82-F7D4-3BEC-3E803D85DF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BC836D-CE82-F7D4-3BEC-3E803D85DF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BC836D-CE82-F7D4-3BEC-3E803D85DF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BC836D-CE82-F7D4-3BEC-3E803D85DF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
